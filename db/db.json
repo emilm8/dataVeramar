@@ -1,5 +1,5 @@
 {
-    "categories":[
+   "categories":[
         [
             {
             "Tienda": [
@@ -258,5 +258,67 @@
             ]
             }
             ]
+    ],
+    
+    "glasses": [
+        [
+            {
+                
+                    "id": 14,
+                    "name": "Olivia",
+                    "img": [
+                    "https://veramar.gt/wp-content/uploads/2024/10/Keily-1024x1536.webp",
+                    "https://veramar.gt/wp-content/uploads/2024/10/Keily-Detalles-1.webp",
+                    "https://veramar.gt/wp-content/uploads/2024/10/Keily-Detalles-2.webp"
+                    ],
+                    "price": 719,
+                    "bottle": 14,
+                    "text": "Traje de baño de dos piezas. Top con diseño halter al cuello, con detalle de nudo al centro y copas removibles. Bottom cintura alta, pierna alta y elástico en la parte de atras."
+                
+                },
+            {
+                
+                    "id": 14,
+                    "name": "Olivia",
+                    "img": [
+                    "https://veramar.gt/wp-content/uploads/2024/10/Keily-1024x1536.webp",
+                    "https://veramar.gt/wp-content/uploads/2024/10/Keily-Detalles-1.webp",
+                    "https://veramar.gt/wp-content/uploads/2024/10/Keily-Detalles-2.webp"
+                    ],
+                    "price": 719,
+                    "bottle": 14,
+                    "text": "Traje de baño de dos piezas. Top con diseño halter al cuello, con detalle de nudo al centro y copas removibles. Bottom cintura alta, pierna alta y elástico en la parte de atras."
+                
+                },
+            {
+                
+                    "id": 14,
+                    "name": "Olivia",
+                    "img": [
+                    "https://veramar.gt/wp-content/uploads/2024/10/Keily-1024x1536.webp",
+                    "https://veramar.gt/wp-content/uploads/2024/10/Keily-Detalles-1.webp",
+                    "https://veramar.gt/wp-content/uploads/2024/10/Keily-Detalles-2.webp"
+                    ],
+                    "price": 719,
+                    "bottle": 14,
+                    "text": "Traje de baño de dos piezas. Top con diseño halter al cuello, con detalle de nudo al centro y copas removibles. Bottom cintura alta, pierna alta y elástico en la parte de atras."
+                
+                },
+            {
+                
+                    "id": 14,
+                    "name": "Olivia",
+                    "img": [
+                    "https://veramar.gt/wp-content/uploads/2024/10/Keily-1024x1536.webp",
+                    "https://veramar.gt/wp-content/uploads/2024/10/Keily-Detalles-1.webp",
+                    "https://veramar.gt/wp-content/uploads/2024/10/Keily-Detalles-2.webp"
+                    ],
+                    "price": 719,
+                    "bottle": 14,
+                    "text": "Traje de baño de dos piezas. Top con diseño halter al cuello, con detalle de nudo al centro y copas removibles. Bottom cintura alta, pierna alta y elástico en la parte de atras."
+                
+                }
+            
+        ]
     ]
 }
