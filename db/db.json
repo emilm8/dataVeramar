@@ -407,7 +407,7 @@
             {
                 
                     "id": 25,
-                    "name": "Olivia",
+                    "name": "Tonka",
                     "img": [
                  "   https://veramar.gt/wp-content/uploads/2025/06/Tonka.webp"
                     ],
@@ -419,9 +419,9 @@
             {
                 
                     "id": 26,
-                    "name": "Olivia",
+                    "name": "Eclipse",
                     "img": [
-                 "   https://veramar.gt/wp-content/uploads/2025/06/Tonka.webp"
+                 " https://veramar.gt/wp-content/uploads/2025/06/ECLIPSE-NEGROS.webp"
                     ],
                     "price": 719,
                     "bottle": 14,
@@ -431,15 +431,28 @@
             {
                 
                     "id": 27,
-                    "name": "Olivia",
+                    "name": "Oasis",
                     "img": [
-                 "   https://veramar.gt/wp-content/uploads/2025/06/Tonka.webp"
+                 "  https://veramar.gt/wp-content/uploads/2025/06/oasis-1.webp"
+                    ],
+                    "price": 719,
+                    "bottle": 14,
+                    "text": "Traje de baño de dos piezas. Top con diseño halter al cuello, con detalle de nudo al centro y copas removibles. Bottom cintura alta, pierna alta y elástico en la parte de atras."
+                
+                },
+            {
+                
+                    "id": 27,
+                    "name": "Aura",
+                    "img": [
+                 " https://veramar.gt/wp-content/uploads/2025/06/Aura-1.webp"
                     ],
                     "price": 719,
                     "bottle": 14,
                     "text": "Traje de baño de dos piezas. Top con diseño halter al cuello, con detalle de nudo al centro y copas removibles. Bottom cintura alta, pierna alta y elástico en la parte de atras."
                 
                 }
+           
             
         ]
     
