@@ -402,9 +402,6 @@
     ],
 
 
-
-
-
     
     "glasses": [
             {
@@ -457,6 +454,57 @@
                 }
            
             
-        ]
+        ],
+
+    "bags": [
+        {
+                
+                "id": 25,
+                "name": "Map Backpack",
+                "img": [
+             "  https://veramar.gt/wp-content/uploads/2024/10/Mochila-mapa1.webp"
+                ],
+                "price": 719,
+                "bottle": 14,
+                "text": "Traje de baño de dos piezas. Top con diseño halter al cuello, con detalle de nudo al centro y copas removibles. Bottom cintura alta, pierna alta y elástico en la parte de atras."
+            
+            },     
+        {
+                
+                "id": 26,
+                "name": "Small Tote Bag",
+                "img": [
+             " https://veramar.gt/wp-content/uploads/2024/10/Toteg-Bag-pequena_.webp"
+                ],
+                "price": 719,
+                "bottle": 14,
+                "text": "Traje de baño de dos piezas. Top con diseño halter al cuello, con detalle de nudo al centro y copas removibles. Bottom cintura alta, pierna alta y elástico en la parte de atras."
+            
+            },     
+        {
+                
+                "id": 27,
+                "name": "Yoga Tote Bag",
+                "img": [
+             "  https://veramar.gt/wp-content/uploads/2024/10/Toteg-Bag-yoga.webp"
+                ],
+                "price": 719,
+                "bottle": 14,
+                "text": "Traje de baño de dos piezas. Top con diseño halter al cuello, con detalle de nudo al centro y copas removibles. Bottom cintura alta, pierna alta y elástico en la parte de atras."
+            
+            },
+        {
+                
+                "id": 28,
+                "name": "Map Backpack",
+                "img": [
+             "  https://veramar.gt/wp-content/uploads/2024/10/Mochila-mapa1.webp"
+                ],
+                "price": 719,
+                "bottle": 14,
+                "text": "Traje de baño de dos piezas. Top con diseño halter al cuello, con detalle de nudo al centro y copas removibles. Bottom cintura alta, pierna alta y elástico en la parte de atras."
+            
+            } 
+    ]
     
 }
