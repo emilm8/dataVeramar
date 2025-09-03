@@ -258,7 +258,7 @@
         }
     ],
     "bathSuit": [
-        [
+        
             {
                 "id": 14,
                 "name": "Crete",
@@ -370,7 +370,7 @@
                 "text": "Traje de baño de dos piezas. Top con diseño halter al cuello, con detalle de nudo al centro y copas removibles. Bottom cintura alta, pierna alta y elástico en la parte de atras."
             }
         ]
-    ],
+    ,
     "glasses": [
         {
             "id": 25,
